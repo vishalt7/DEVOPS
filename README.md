@@ -25,4 +25,7 @@ In this project we will use following aws services: - <br>
 -----------------
 ## 2. Connection between Nodeport, Port and Target Port
 -----------------
+
+![2bVEz](https://user-images.githubusercontent.com/102405310/235336875-bfcec6f4-d605-45bb-ae29-ea5624038a36.png)
+
  
