@@ -34,6 +34,9 @@ In this project we will use following aws services: - <br>
 
 <img width="1096" alt="Screenshot 2023-04-24 at 2 22 27 PM" src="https://user-images.githubusercontent.com/102405310/235337723-1f94b645-f7e3-4184-8cac-0ebb1eb6aba3.png">
 
+-------------------
+## 4. AWS VPC Architecture
+-------------------
 
 
  
