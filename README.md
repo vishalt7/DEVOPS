@@ -1,4 +1,5 @@
---------------------------------------------------------------------------<br>PROJECT 1
-------------------------------------------------------------------------------
+# Project 1
 
-AIM: - HOSTING OF CLONED REDDIT APP ON AN EC2 INSTANCE USING MINKUBE AND DOCKER
+## Demonstration of hosting of cloned Reddit appliction on an EC2 instance using minikube and Docker.
+
+
