@@ -23,6 +23,6 @@ In this project we will use following aws services: - <br>
 ![Kubernetes-Architecture](https://user-images.githubusercontent.com/102405310/235336458-84b0fe94-42bb-4285-a45f-0ef86b0223e5.png)
 <br>
 -----------------
-## Connection between Nodeport, port and Target port
+## Connection between Nodeport, Port and Target Port
 -----------------
  
