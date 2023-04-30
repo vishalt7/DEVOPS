@@ -1,9 +1,17 @@
 # Project 1
 
-Demonstration of hosting of cloned Reddit application on an EC2 instance using minikube and Docker.
+Demonstration of Deployment of cloned Reddit application on a cluster using minikube and Docker.
 
 ---------------
 # Project 2
 
-Demonstration hosting of cloned Reddit application on an EC2 instance using kubernetes and Docker also monitoring of application will be done.
+Demonstration of Deployment of cloned Reddit application on a Kubernetes cluster using kubernetes and Docker also we will monitor the application using Promeatheus and visualization of monitored data through Graffana.
+<br>
 
+In this project we will use following aws services: - <br>
+1. Elastic Container Repository (ECR) <br>
+2. EC2 instance
+3. Virtual Private Cloud (VPC) <br>
+4. Elastic IP (EIP) <br>
+5. Elastic Kubernetes Service (EKS) <br>
+ 
