@@ -14,4 +14,11 @@ In this project we will use following aws services: - <br>
 3. Virtual Private Cloud (VPC) <br>
 4. Elastic IP (EIP) <br>
 5. Elastic Kubernetes Service (EKS) <br>
+
+------------------
+# Important Diagrams
+
+## Kubernetes Architecuture
+
+/Users/vishalthakur/Desktop/Kubernetes-Architecture.png
  
