@@ -20,5 +20,5 @@ In this project we will use following aws services: - <br>
 
 ## Kubernetes Architecuture
 
-/Users/vishalthakur/Desktop/'Kubernetes-Architecture'.png
+/Volumes/Elements/DEVOPS/'Kubernetes-Architecture'.png
  
