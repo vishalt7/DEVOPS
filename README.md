@@ -37,6 +37,9 @@ In this project we will use following aws services: - <br>
 -------------------
 ## 4. AWS VPC Architecture
 -------------------
+![VPC-Network-Engineers-Part-1-1](https://user-images.githubusercontent.com/102405310/235347335-be9e5aa8-7328-4138-ab71-eea34a78e8e2.png)
+
+
 
 
  
