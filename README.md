@@ -41,5 +41,39 @@ In this project we will use following aws services: - <br>
 
 
 
+-----------------
+## Dockerfile Basics
+
+<p> Dockerfile is basically a textfile. It contains some set of instructions.</p>
+<p> Used for Automation of creation of Docker Image. </p>
+
+### Dockerfile Components
+
+<ul> 
+<li> FROM: - For Base Image. This command must be on top of the Dockerfile. </li>
+<li> RUN: - To execute command inside the container. </li>
+<li> MAINTAINER: - Author/Owner/Description </li>
+<li> COPY: - Copy files from local system. We need to provide Source(local machine) & Destination(container base image). </li>
+<li> ADD: - Similar to COPY but, it provides a feature to download files from internet, also we can untar archive or extract. </li>
+<li> EXPOSE: - To expose ports such as port 8080 for tomcat, port 80 for nginx etc. </li>
+<li> WORKDIR: - To set working directory for a container. </li>
+<li> CMD: - Execute command but during container creation </li>
+<li> ENTRYPOINT: - Similar to CMD, but has a higher priority over CMD. </li>
+<li> ENV: -  For configuring environment variables.</li>
+</ul>
+
+![dockercheatsheet7](https://user-images.githubusercontent.com/102405310/235626290-36c4349e-3815-42ac-a6dd-3b34952821a1.png)
+
+
+
+-----------------------------
+## Docker CheatSheet
+![dockercheatsheet8](https://user-images.githubusercontent.com/102405310/235626278-5347187e-4060-4cee-82b0-a1c410f3b914.png)
+
+
+
+
+
+
 
  
